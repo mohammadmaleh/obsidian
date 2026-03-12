@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "58902aa5de75d57d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7e4260e040466fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22d69882969778a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech/Typescript/Basics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Basics"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7cb21a60237774f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e5c5422730a1a9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "139acabaff9de7e6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a527a4daa50163eb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4c96e6ac9c34c790",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "3c5f6e870b6b48d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "b710b8f38cbd168f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d584aa929927c51",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "FastAPI/Schema.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Schema"
+            }
+          },
+          {
+            "id": "f46c3ad952787aba",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "FastAPI/Schema.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Schema"
+            }
+          },
+          {
+            "id": "c3d885da72fb31bb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e6dcaf6ab8c0e2dc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "FastAPI/Schema.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Schema"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "139acabaff9de7e6",
+  "lastOpenFiles": [
+    "Untitled 1.base",
+    "Tech/Typescript/Basics.md",
+    "Untitled.base",
+    "Untitled.canvas",
+    "Topics/TypeScript/_Index.md",
+    "Tech/Typescript",
+    "Templates/Daily Note.md",
+    "Templates/New Snippet.md",
+    "Templates/New Concept.md",
+    "Attachments",
+    "Journal",
+    "Templates",
+    "References",
+    "Projects",
+    "Topics/TypeScript/Snippets",
+    "Topics/TypeScript/Patterns",
+    "Pasted image 20240715145558.png",
+    "Legacy/Untitled.md",
+    "Legacy/Untitled 3.md",
+    "Legacy/Untitled 2.md",
+    "Legacy/Untitled 1.md",
+    "Legacy/Redux integration.md",
+    "Legacy/quest to ask in tech interviews.md",
+    "Legacy/Pasted image 20240717172548.png",
+    "Legacy/Pasted image 20240715201421.png",
+    "Legacy/Pasted image 20240715184507.png",
+    "Legacy/Pasted image 20240715183213.png",
+    "Legacy/Pasted image 20240715181831.png",
+    "Legacy/Pasted image 20240715180547.png",
+    "Legacy/Pasted image 20240715180538.png",
+    "Legacy/Pasted image 20240715180537.png",
+    "Legacy/Pasted image 20240715180537 2.png",
+    "Legacy/Redux/fundamentals.md",
+    "Legacy/Python/Intro.md",
+    "Legacy/NextJS15/Fundamentals.md",
+    "Legacy/NextJs/routing/Linking and Navigating.md",
+    "Legacy/NextJs/routing/fundamentals.md",
+    "Legacy/NextJs/routing/Defining routes.md",
+    "Legacy/NextJs/fundamentals.md",
+    "Legacy/Javascript/interview questions.md",
+    "Legacy/FastAPI/Schema.md",
+    "Legacy/FastAPI/intro.md",
+    "Legacy/Django/Intro.md",
+    "Legacy/Django/04-Admin.md",
+    "Legacy/Django/03-ORM.md",
+    "Legacy/Django/02-migration.md"
+  ]
+}
