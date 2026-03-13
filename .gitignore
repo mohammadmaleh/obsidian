@@ -1,0 +1,9 @@
+﻿# MCP Tools binary (too large for GitHub)
+.obsidian/plugins/mcp-tools/bin/
+.obsidian/plugins/mcp-tools/bin/mcp-server.exe
+
+# Other large plugin binaries
+.obsidian/plugins/*/bin/
+
+# Optional: ignore all plugin files (recommended)
+.obsidian/plugins/

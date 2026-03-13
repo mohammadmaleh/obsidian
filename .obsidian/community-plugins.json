@@ -8,5 +8,8 @@
   "obsidian-git",
   "calendar",
   "dataview",
-  "unitade"
+  "unitade",
+  "linear",
+  "mcp-tools",
+  "obsidian-local-rest-api"
 ]
