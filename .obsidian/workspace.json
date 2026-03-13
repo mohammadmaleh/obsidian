@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5149848f14ccdd06",
+        "id": "040c3c9a846c94c9",
         "type": "tabs",
         "children": [
           {
-            "id": "0882dbee3dbb9f50",
+            "id": "992fdd38b7593ea9",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Untitled 2.base",
-                "viewName": "Table"
+                "file": "Tech/Typescript/Basics.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Untitled 2"
+              "icon": "lucide-file",
+              "title": "Basics"
             }
           }
         ]
@@ -73,12 +74,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 449.5
   },
   "right": {
     "id": "3c5f6e870b6b48d5",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 2.base",
+                "file": "Tech/Typescript/Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled 2"
+              "title": "Backlinks for Basics"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 2.base",
+                "file": "Tech/Typescript/Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled 2"
+              "title": "Outgoing links from Basics"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 2.base",
+                "file": "Tech/Typescript/Basics.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled 2"
+              "title": "Outline of Basics"
             }
           },
           {
@@ -208,8 +208,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "20472a76487fd176",
+  "active": "992fdd38b7593ea9",
   "lastOpenFiles": [
+    "Untitled 5.base",
+    "Untitled 4.base",
+    "Untitled 3.base",
     "Untitled 2.base",
     "Untitled 1.base",
     "Tech/Typescript/Basics.md",
@@ -224,9 +227,6 @@
     "Journal",
     "Templates",
     "References",
-    "Projects",
-    "Topics/TypeScript/Snippets",
-    "Topics/TypeScript/Patterns",
     "Pasted image 20240715145558.png",
     "Legacy/Untitled.md",
     "Legacy/Untitled 3.md",

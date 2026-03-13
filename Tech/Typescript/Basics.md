@@ -22,3 +22,10 @@ Generics provide variables to types. A common example is an array. An array with
 type StringArray = Array<string>;
 type NumberArray = Array<number>;
 type ObjectWithNameArray = Array<{ name: string }>;
+
+
+
+
+
+
+
