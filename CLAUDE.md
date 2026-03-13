@@ -1,4 +1,4 @@
-﻿# Global Claude Context
+# Global Claude Context
 
 ## Identity
 - Name: Mohammad Maleh

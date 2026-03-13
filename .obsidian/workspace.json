@@ -208,8 +208,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "992fdd38b7593ea9",
+  "active": "20472a76487fd176",
   "lastOpenFiles": [
+    "projects/job-tracker/README.md",
+    "daily",
+    "projects/job-tracker",
+    "projects",
+    "research",
     "CLAUDE.md",
     "c.txt",
     "New Text Document.txt",
@@ -218,15 +223,11 @@
     "Tech/Typescript/Basics.md",
     "Untitled 5.base",
     "Untitled 4.base",
-    "Untitled 3.base",
-    "Untitled 2.base",
     "Untitled.canvas",
     "Topics/TypeScript/_Index.md",
-    "Tech/Typescript",
     "Templates/Daily Note.md",
     "Templates/New Snippet.md",
     "Templates/New Concept.md",
-    "Attachments",
     "Pasted image 20240715145558.png",
     "Legacy/Untitled.md",
     "Legacy/Untitled 3.md",
@@ -255,7 +256,6 @@
     "Legacy/FastAPI/intro.md",
     "Legacy/Django/Intro.md",
     "Legacy/Django/04-Admin.md",
-    "Legacy/Django/03-ORM.md",
-    "Legacy/Django/02-migration.md"
+    "Legacy/Django/03-ORM.md"
   ]
 }
