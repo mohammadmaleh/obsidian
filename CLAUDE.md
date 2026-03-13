@@ -14,15 +14,23 @@
 - UI/UX: TBD
 
 ## Active Projects
-- job-tracker: React + Vite + Tailwind + TypeScript
-  - Repo: ~/projects/job-tracker
-  - Linear team: Job Application Tracker (JOB-X)
+
+### job-tracker
+- **What**: Personal web app to track job applications (add, update, monitor status)
+- **Repo**: https://github.com/mohammadmaleh/job-tracker (local: ~/projects/job-tracker)
+- **Stack**: React 18 + Vite + TypeScript + Tailwind CSS
+- **Linear**: Job Application Tracker (issue prefix: JOB-X)
+- **Status**: 🟡 In Progress — Vite + Tailwind skeleton done, UI components not yet connected
+- **Structure**: `frontend/` → Vite app → `src/App.tsx`, `main.tsx`
+- **Next steps**: Define TypeScript data model, build job list view, add/edit form, status tracking
+- **Full context**: See `projects/job-tracker/README.md` in this vault
 
 ## Vault Structure
 - research/ → Perplexity research dumps
-- projects/ → per-project notes
+- projects/ → per-project notes (e.g. projects/job-tracker/README.md)
 - daily/ → daily notes
-- 01-workflow/ → workflow setup
+- Workflow/ → workflow setup
+- Tech/ → tech notes
 
 ## Global Dev Rules
 - No self-hosted DevOps, keep it lightweight
@@ -33,6 +41,6 @@
 
 ## How to Use This Vault
 - Read CLAUDE.md first every session
-- Check projects/job-tracker/ for active context
+- Check projects/<project-name>/README.md for active context
 - Write research findings to research/YYYY-MM-DD-topic.md
 - Update daily/YYYY-MM-DD.md with progress
