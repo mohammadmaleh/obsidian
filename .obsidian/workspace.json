@@ -11,14 +11,10 @@
             "id": "992fdd38b7593ea9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech/Typescript/Basics.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Basics"
+              "title": "New tab"
             }
           }
         ]
@@ -210,13 +206,13 @@
   },
   "active": "992fdd38b7593ea9",
   "lastOpenFiles": [
+    "Untitled 1.base",
+    "Untitled.base",
+    "Tech/Typescript/Basics.md",
     "Untitled 5.base",
     "Untitled 4.base",
     "Untitled 3.base",
     "Untitled 2.base",
-    "Untitled 1.base",
-    "Tech/Typescript/Basics.md",
-    "Untitled.base",
     "Untitled.canvas",
     "Topics/TypeScript/_Index.md",
     "Tech/Typescript",
@@ -226,7 +222,6 @@
     "Attachments",
     "Journal",
     "Templates",
-    "References",
     "Pasted image 20240715145558.png",
     "Legacy/Untitled.md",
     "Legacy/Untitled 3.md",
